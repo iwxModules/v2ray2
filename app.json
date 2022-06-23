@@ -1,7 +1,7 @@
 {
-    "name": "humm",
-    "description": "humm",
+    "name": "test",
+    "description": "test",
     },
-    "repository": "https://github.com/Applemusiclk/V2ray-1",
+    "repository": "https://github.com/iwxModules/v2ray2/",
     "stack": "container"
 }
