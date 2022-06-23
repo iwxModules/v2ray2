@@ -1,10 +1,10 @@
 {
-    "name": "humm",
-    "description": "humm",
+    "name": "tets",
+    "description": "test",
     "env": {
         "UUID": {
             "description": "UUID",
-            "value": ""        
+            "value": "Don't put here"        
         }
     },
     "repository": "https://github.com/Applemusiclk/V2ray-1",
