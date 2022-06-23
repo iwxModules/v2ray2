@@ -1,7 +1,12 @@
 {
-    "name": "test",
-    "description": "test",
+    "name": "humm",
+    "description": "humm",
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": ""        
+        }
     },
-    "repository": "https://github.com/iwxModules/v2ray2/",
+    "repository": "https://github.com/Applemusiclk/V2ray-1",
     "stack": "container"
 }
